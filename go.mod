@@ -1,3 +1,3 @@
-module github.com/jlectronix/gogeos
+module github.com/jdejesus007/gogeos
 
 go 1.13
